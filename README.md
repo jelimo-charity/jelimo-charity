@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jelimo-charity
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on projects that will help me grow the skill.
 - 📫 How to reach me. This is my email charityjelimo893@gmail.com
 
