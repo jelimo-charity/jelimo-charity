@@ -1,6 +1,5 @@
 # 💫 About Me:
 ### -  Hi, I’m @jelimo-charity
-### - 
 ### -  I’m currently working on my Full-stack skills by building projects.
 ### -  I’m looking to collaborate on projects that will help me grow the skill.
 ### -  How to reach me. This is my email charityjelimo893@gmail.com
