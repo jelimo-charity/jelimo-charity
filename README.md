@@ -1,6 +1,7 @@
 ## About Me:
+![portfolio image](https://github.com/jelimo-charity/JournalApp/blob/main/Frontend/JournalToday/src/assets/backgroundImg.PNG)
  -  Hi, I’m @jelimo-charity
- -  How to reach me. This is my email charityjelimo893@gmail.com
+ -  How to reach me -- This is my email charityjelimo893@gmail.com
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charity-jelimo-66b128220) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@charityjelimo) 
